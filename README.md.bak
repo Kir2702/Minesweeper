@@ -1,13 +1,13 @@
-# Minesweeper
-
-
-Классический сапер. Стандартные правила.
+## Minesweeper
 
 
 ![schem.png](https://github.com/Kir2702/myScreenshots/blob/main/Minesweeper.png)
 
 
 Скомпилированный jar: Minesweeper/out/artifacts/Minesweeper_jar/Minesweeper.jar
+
+
+Классический сапер. Стандартные правила.
 
 
 ## Принцип работы
