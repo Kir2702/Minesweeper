@@ -7,7 +7,7 @@
 ![schem.png](https://github.com/Kir2702/myScreenshots/blob/main/Minesweeper.png)
 
 
-Скомпилированный jar: Minesweeper/out/artifacts/Minesweeper_jar/Minesweeper.jar
+Скомпилированный jar: /out/artifacts/Minesweeper_jar/Minesweeper.jar
 
 
 ## Принцип работы
