@@ -15,7 +15,7 @@
 png взяты с ресурса https://prog-cpp.ru/miner/
 
 
-# TO DO:
+## TO DO:
 
 
 	1. Вывести счетчик бомб и флагов
