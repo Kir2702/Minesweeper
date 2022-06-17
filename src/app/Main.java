@@ -116,7 +116,7 @@ public class Main extends JFrame {
     private String getMassage() {
         switch (game.getState()){
             case PLAYD -> {return "PLAYD";}
-            case BOMBED -> {return "lox";}
+            case BOMBED -> {return "BOMBED";}
             case WIN -> {return "WIN";}
             default -> {return "";}
         }
