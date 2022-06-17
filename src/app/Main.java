@@ -43,7 +43,7 @@ public class Main extends JFrame {
 
     private void initLable (){
         label = new JLabel("Welcom");
-        add(label, BorderLayout.SOUTH);
+        //add(label, BorderLayout.SOUTH);
     }
 
 
